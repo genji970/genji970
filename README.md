@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🦈 YOLOv8 Contributor
+
 [![Ultralytics Contributor](https://img.shields.io/badge/Ultralytics-YOLOv8-blue?logo=github)](https://github.com/ultralytics/ultralytics/pull/20579)
