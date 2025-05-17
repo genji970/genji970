@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 since 2019 ~ 
 planning to gradute in 2026.03
 
+major : Economics
+
 ## military(2020~2021)
 
