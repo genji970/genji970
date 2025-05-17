@@ -31,5 +31,6 @@ planning to gradute in 2026.03
 
 major : Economics
 
-## military(2020~2021)
+## military
+(2020~2021)
 
