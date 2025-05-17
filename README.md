@@ -37,7 +37,7 @@ major : Economics
 ## learned
 
 undergrauduate mathematics such as analysis, topology, differential geometry, algebra<br>
-learned many ai theory and code
+learned many ai theory and code<br>
 read many ai papers , 3d vision field, etc.
 
 ## Current interest
