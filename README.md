@@ -34,3 +34,12 @@ major : Economics
 ## military
 (2020~2021)
 
+## learned
+
+undergrauduate mathematics such as analysis, topology, differential geometry, algebra
+learned many ai theory and code
+read many ai papers , 3d vision field, etc.
+
+## Current interest
+ai paper conference , vision kaggle competition
+
