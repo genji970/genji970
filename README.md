@@ -18,3 +18,16 @@ Here are some ideas to get you started:
 ## 🚀 Ultralytics Contributor
 
 [![Ultralytics Contributor](https://img.shields.io/badge/Ultralytics-Contributor-blue?logo=github)](https://github.com/ultralytics/ultralytics/pull/20579)
+
+## World quant
+1)conditional research consultant
+
+## interest
+3d vision , rl , robotics , llm
+
+## korea university 
+since 2019 ~ 
+planning to gradute in 2026.03
+
+## military(2020~2021)
+
