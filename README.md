@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 3d vision , rl , robotics , llm
 
 ## korea university 
-since 2019 ~ 
-planning to gradute in 2026.03
+since 2019 ~<br> 
+planning to gradute in 2026.03<br>
 major : Economics
 
 ## military
