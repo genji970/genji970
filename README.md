@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 Ultralytics Contributor
-
+1) 
 [![Ultralytics Contributor](https://img.shields.io/badge/Ultralytics-Contributor-blue?logo=github)](https://github.com/ultralytics/ultralytics/pull/20579)
 
+release note : https://github.com/ultralytics/ultralytics/releases/tag/v8.3.137
 brief introduction : upgrading speed in embed inference pipeline 
 
 ## World quant
