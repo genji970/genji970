@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 [![Ultralytics Contributor](https://img.shields.io/badge/Ultralytics-Contributor-blue?logo=github)](https://github.com/ultralytics/ultralytics/pull/20579)
 
 release note : https://github.com/ultralytics/ultralytics/releases/tag/v8.3.137<br>
-brief introduction : upgrading speed in embed inference pipeline 
+brief introduction : upgrading speed in embed inference pipeline
+
+contribution count : 2
 
 ## World quant
 1)conditional research consultant
