@@ -30,7 +30,7 @@ brief introduction : upgrading speed in embed inference pipeline
 
 ## korea university 
 since 2019 ~<br> 
-planning to gradute in 2026.03<br>
+planning to graduate in 2026.03<br>
 major : Economics
 
 ## military
