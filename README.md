@@ -27,7 +27,7 @@ Recently, I made issue about adding Lovász-Softmax loss and received a positive
 contribution count : 2
 
 ## World quant
-1)conditional research consultant
+1)IQC stage2, 92th out of 1613 in stage1
 
 ## interest
 3d vision , rl , robotics , llm
@@ -47,5 +47,5 @@ learned many ai theory and code<br>
 read many ai papers , 3d vision field, etc.
 
 ## Current interest
-ai paper conference , vision kaggle competition
+ai conference
 
