@@ -25,7 +25,7 @@ brief introduction : upgrading speed in embed inference pipeline
 Recently, I made issue about adding Lovász-hinge loss and received a positive response. So I submitted pr(in progress) 
 link : https://github.com/ultralytics/ultralytics/pull/20893
 
-contribution count : 2
+contribution count : 2<br>
 two merged pr, one in progress
 
 ## World quant
