@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 release note : https://github.com/ultralytics/ultralytics/releases/tag/v8.3.137<br>
 brief introduction : upgrading speed in embed inference pipeline
 
-Recently, I made issue about adding Lovász-Softmax loss and received a positive response. So I'm working on making new code to submit a pr 
+Recently, I made issue about adding Lovász-Softmax loss and received a positive response. So I submitted pr
 
 contribution count : 2
 
