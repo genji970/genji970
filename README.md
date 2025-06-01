@@ -23,7 +23,7 @@ release note : https://github.com/ultralytics/ultralytics/releases/tag/v8.3.137<
 brief introduction : upgrading speed in embed inference pipeline
 
 Recently, I made issue about adding Lovász-hinge loss and received a positive response. So I submitted pr 
-link : adding lovasz loss to segmentation pipeline #20893
+link : https://github.com/ultralytics/ultralytics/pull/20893
 
 contribution count : 2
 
