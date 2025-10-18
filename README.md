@@ -27,7 +27,6 @@ customized 3d gs generating pipeline.
 ### 🧩 Open Source
 - **Ultralytics YOLO** contributor — **2 merged PRs**.
 
-<!-- Optional: Tech stack
 ### ⚙️ Tech
 Python · C++(little) · PyTorch · OpenCV · COLMAP · GS · rl · llm · docker(little) 
 
