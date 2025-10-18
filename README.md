@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **genji970/genji970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Hi there 👋
@@ -30,4 +30,4 @@ customized 3d gs generating pipeline.
 ### ⚙️ Tech
 Python · C++(little) · PyTorch · OpenCV · COLMAP · GS · rl · llm · docker(little) 
 
---!>
+
