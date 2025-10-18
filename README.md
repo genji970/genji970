@@ -8,9 +8,7 @@ customized 3d gs generating pipeline.
 - Building a COLMAP → GS training/rendering pipeline for Mip-NeRF360.
 
 ### 📖 Recently Reading
-- Meta’s **Flow Matching**
 - **3D Gaussian Splatting** papers
-- **FlowR** (ongoing interest)
 
 ### 🎓 Coursework (2022–2023)
 - Math major: **Analysis2**, **Differential Geometry**, **Topology2**...
