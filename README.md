@@ -30,9 +30,6 @@ customized 3d gs generating pipeline.
 <!-- Optional: Tech stack
 ### ⚙️ Tech
 Python · C++(little) · PyTorch · OpenCV · COLMAP · GS · rl · llm · docker(little) 
--->
-
-
 
 
 -->
