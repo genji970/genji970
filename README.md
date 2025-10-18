@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**genji970/genji970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Hi there 👋
-
 I'm a senior (4th year) at **Korea University** working on **3D Gaussian Splatting**.  
 Right now I'm training **Mip-NeRF360** scenes using **COLMAP + Gaussian Splatting** (referencing *3D Gaussian Splatting for Real-Time Radiance Field Rendering*). Making 
 customized 3d gs generating pipeline.
