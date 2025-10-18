@@ -24,3 +24,7 @@ customized 3d gs generating pipeline.
 Python · C++(little) · PyTorch · OpenCV · COLMAP · 3D · GS · rl · llm · docker(little) 
 
 
+image gained by training with my custome pipeline without using the whole 3d gs opensource.
+To handle oom issue, there need some idea.
+<img width="1024" height="680" alt="image" src="https://github.com/user-attachments/assets/b103f57d-4cbf-4270-8056-3f5944cea69f" />
+
