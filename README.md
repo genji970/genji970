@@ -4,6 +4,9 @@ I'm a undergraduate student(4th year) at **Korea University** working on **3D Ga
 Right now I'm training **Mip-NeRF360** scenes using **COLMAP + Gaussian Splatting** (referencing *3D Gaussian Splatting for Real-Time Radiance Field Rendering*). Making 
 customized 3d gs generating pipeline.
 
+### My interest
+multimodal, 3d vision, RL , LLM
+
 ### 🔭 Currently
 - Building a COLMAP → GS training/rendering pipeline for Mip-NeRF360.
 
