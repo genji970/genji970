@@ -31,3 +31,8 @@ image gained by training with my custome pipeline without using the whole 3d gs 
 To handle oom issue, there need some idea.
 <img width="1024" height="680" alt="image" src="https://github.com/user-attachments/assets/b103f57d-4cbf-4270-8056-3f5944cea69f" />
 
+<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/b54d2916-8413-42f2-9a73-18fd2bad1149" />
+
+<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/4281cfc0-d376-46b0-a15e-84531f74c321" />
+
+
