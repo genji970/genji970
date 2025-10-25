@@ -33,7 +33,8 @@ To handle oom issue, there need some idea.
 
 <img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/b54d2916-8413-42f2-9a73-18fd2bad1149" />
 
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/4281cfc0-d376-46b0-a15e-84531f74c321" />
+<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/2b7b8be1-5958-4c02-9e3a-e61393a7b7ec" />
+
 
 
 
