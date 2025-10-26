@@ -33,11 +33,5 @@ To handle oom issue, there need some idea.
 
 <img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/b54d2916-8413-42f2-9a73-18fd2bad1149" />
 
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/2b7b8be1-5958-4c02-9e3a-e61393a7b7ec" />
-
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/12653084-7de2-4742-8704-ef49600315a7" />
-
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/5a19d7da-f9cc-4b53-9297-cd102ca63198" />
-
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/3e5226c8-b121-4bc2-b6ce-c451d1472253" />
+<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/8dd6f7fa-6dc3-46f4-ab1a-7a0cb1e0c3be" />
 
