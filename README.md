@@ -26,13 +26,3 @@ multimodal, 3d vision, RL , LLM
 ### ⚙️ Tech
 Python · C++(little) · PyTorch · OpenCV · COLMAP · 3D · GS · rl · llm · docker(little) 
 
-
-image gained by training with my custome pipeline without using the whole 3d gs opensource.
-To handle oom issue, there need some idea.
-<img width="1024" height="680" alt="image" src="https://github.com/user-attachments/assets/b103f57d-4cbf-4270-8056-3f5944cea69f" />
-
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/b54d2916-8413-42f2-9a73-18fd2bad1149" />
-
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/8dd6f7fa-6dc3-46f4-ab1a-7a0cb1e0c3be" />
-<img width="512" height="340" alt="image" src="https://github.com/user-attachments/assets/dd7a8ee3-2711-4e97-a385-c18efe81f64f" />
-
