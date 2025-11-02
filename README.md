@@ -18,7 +18,7 @@ multimodal, 3d vision, RL , LLM
 - CS major: **Algorithms**, **Artificial Intelligence**...
 
 ### 🧠 How I Learn
-- I read research papers and see many full university/graduate-level course series on YouTube (professors’ complete lecture playlists).
+- I read research papers.
 
 ### 🧩 Open Source
 - **Ultralytics YOLO** contributor — **2 merged PRs**.
