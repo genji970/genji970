@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a undergraduate student(4th year) at **Korea University** working on **VLA**.  
+I'm a undergraduate student(4th year) at **Korea University**.  
 
 ### My interest
 multimodal, 3d vision, RL , LLM
