@@ -20,6 +20,7 @@ multimodal, 3d vision, RL , LLM
 
 ### 🧩 Open Source
 - **Ultralytics YOLO** contributor — **2 merged PRs**.
+- Microsoft/agent-lightning contribtor - 1 merged pr. Trying to pr more and do advanced pr. 
 
 ### ⚙️ Tech
 Python · C++(little) · PyTorch · OpenCV · COLMAP · 3D · GS · rl · llm · docker(little) 
