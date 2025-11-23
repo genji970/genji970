@@ -6,7 +6,7 @@ I'm a undergraduate student(4th year) at **Korea University**.
 multimodal, 3d vision, RL , LLM
 
 ### 🔭 Currently
-- Building vla 
+- Building 
 
 ### 📖 Recently Reading
 - **3D Gaussian Splatting** papers
